@@ -28,6 +28,8 @@ IMPORTANTE:
 
 Se houver Bugs reportem!
 
+update Efraim Rocha na equipe -> 20/04/2022
+
 v1.0 update -> 19/01/2022
 - espaços em branco nos nomes não são mais permitidos
 
